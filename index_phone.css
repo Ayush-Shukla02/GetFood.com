@@ -1,0 +1,41 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1.1rem;
+    padding: 0px 7px;
+}
+
+#navbar ul{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+#logo{
+    margin: 25px 25px;
+    height: 35px;
+}
+
+#logo img{
+    margin-top: -10px;
+    height: 60px;
+}
+
+#home{
+    height: 500px;
+    padding: 3px 50px;
+}
+
+#home p{
+    font-size: 13px;
+}
+
+#home h1{
+    font-size: 3rem;
+}
+
+.btn{
+    font-size: 0.8rem;
+}
