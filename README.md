@@ -1,3 +1,3 @@
 # GetFood.com
 
-This is just the responsive frontend part of the website.
+This is just the frontend part of the website.
